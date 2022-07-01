@@ -18,8 +18,8 @@ namespace PracticeBakery.Models
     public int PastryCost()
     {
       int cost = 0;
-      // int freeBreads = OrderedBreads / 3;
-      cost = OrderedPastries * 2;
+      int discountedPastries = OrderedPastries / 3;
+      cost = ((OrderedPastries - discountedPastries) * 2) + discountedPastries * 1;
       return cost;
     }
   }

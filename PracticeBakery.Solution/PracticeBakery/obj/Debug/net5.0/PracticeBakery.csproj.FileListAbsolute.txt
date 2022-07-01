@@ -10,3 +10,6 @@
 /Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.dll
 /Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/ref/PracticeBakery.dll
 /Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.pdb
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/PracticeBakery.runtimeconfig.json
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/PracticeBakery.runtimeconfig.dev.json
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.genruntimeconfig.cache

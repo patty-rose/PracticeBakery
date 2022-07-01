@@ -6,7 +6,7 @@ using PracticeBakery.Models;
 namespace PracticeBakery.Tests
 {
   [TestClass]
-  public class BreadTests
+  public class PastryOrderTests
   {
   
   }

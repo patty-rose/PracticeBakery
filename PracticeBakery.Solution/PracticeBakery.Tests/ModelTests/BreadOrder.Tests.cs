@@ -21,5 +21,12 @@ namespace PracticeBakery.Tests
       BreadOrder newBreadOrder = new BreadOrder(2);
       Assert.AreEqual(10, newBreadOrder.BreadCost());
     }
+
+    [TestMethod]
+    public void BreadCost_CalculateCostOfBuyTwoGetOneOrder_10()
+    {
+      BreadOrder newBreadOrder = new BreadOrder(3);
+      Assert.AreEqual(10, newBreadOrder.BreadCost());
+    }
   }
 }

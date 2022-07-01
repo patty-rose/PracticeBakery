@@ -16,10 +16,17 @@ namespace PracticeBakery.Tests
     }
 
     [TestMethod]
-    public void PastryCost_CalculateCostOfPastriesOrdered_10()
+    public void PastryCost_CalculateCostOfPastriesOrdered_4()
     {
       PastryOrder newPastryOrder = new PastryOrder(2);
       Assert.AreEqual(4, newPastryOrder.PastryCost());
+    }
+
+    [TestMethod]
+    public void PastryCost_CalculateCostOfBuyTwoGetOneHalfOffOrder_10()
+    {
+      PastryOrder newPastryOrder = new PastryOrder(6);
+      Assert.AreEqual(10, newPastryOrder.PastryCost());
     }
   }
 }

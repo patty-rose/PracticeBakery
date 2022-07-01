@@ -4,11 +4,16 @@ using PracticeBakery.Models;
 
 namespace PracticeBakery.Models
 {
-  public class Pastry
+  public class BreadOrder
   {
     // auto implemented properties
+    public int OrderedBreads { get; set; }
 
     // constructor
+    public BreadOrder(int orderedBreads)
+    {
+      OrderedBreads = orderedBreads;
+    }
 
     // methods
   }

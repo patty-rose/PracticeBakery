@@ -4,7 +4,7 @@ using PracticeBakery.Models;
 
 namespace PracticeBakery.Models
 {
-  public class Bread
+  public class PastryOrder
   {
     // auto implemented properties
 

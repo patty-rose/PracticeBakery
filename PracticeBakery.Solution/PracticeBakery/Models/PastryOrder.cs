@@ -15,5 +15,12 @@ namespace PracticeBakery.Models
       OrderedPastries = orderedPastries;
     }
     // methods
+    public int PastryCost()
+    {
+      // int cost = 0;
+      // int freeBreads = OrderedBreads / 3;
+      // cost = (OrderedBreads - freeBreads) * 5;
+      return 0;
+    }
   }
 }

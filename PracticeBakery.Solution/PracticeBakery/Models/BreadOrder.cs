@@ -20,7 +20,8 @@ namespace PracticeBakery.Models
     public int BreadCost()
     {
       int cost = 0;
-      cost = OrderedBreads * 5;
+      int freeBreads = OrderedBreads / 3;
+      cost = (OrderedBreads - freeBreads) * 5;
       return cost;
     }
   }

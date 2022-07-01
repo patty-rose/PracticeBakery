@@ -7,9 +7,13 @@ namespace PracticeBakery.Models
   public class PastryOrder
   {
     // auto implemented properties
+    public int OrderedPastries { get; set; }
 
     // constructor
-
+    public PastryOrder(int orderedPastries)
+    {
+      OrderedPastries = orderedPastries;
+    }
     // methods
   }
 }

@@ -1,0 +1,12 @@
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.csproj.AssemblyReference.cache
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.AssemblyInfoInputs.cache
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.AssemblyInfo.cs
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.csproj.CoreCompileInputs.cache
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/PracticeBakery.deps.json
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/PracticeBakery.dll
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/ref/PracticeBakery.dll
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/bin/Debug/net5.0/PracticeBakery.pdb
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.dll
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/ref/PracticeBakery.dll
+/Users/pattyrose/Desktop/c0ding/PracticeBakery/PracticeBakery.Solution/PracticeBakery/obj/Debug/net5.0/PracticeBakery.pdb

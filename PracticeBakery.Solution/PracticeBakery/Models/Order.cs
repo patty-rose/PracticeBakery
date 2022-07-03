@@ -18,5 +18,12 @@ namespace PracticeBakery.Models
     }
 
     // methods
+
+    public int CalculateOrderTotal()
+    {
+      int breadTotal = BreadOrder.BreadCost();
+      int pastryTotal = PastryOrder.PastryCost();
+      return breadTotal + pastryTotal;
+    }
   }
 }

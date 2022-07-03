@@ -7,14 +7,14 @@ namespace PracticeBakery.Models
   public class Order
   {
     // auto implemented properties
-    private BreadOrder _breadOrder;
-    private PastryOrder _pastryOrder;
+    public BreadOrder BreadOrder { get; set; }
+    public PastryOrder PastryOrder { get; set; }
     // constructor
 
     public Order()
     {
-      BreadOrder BreadOrder = _breadOrder;
-      PastryOrder PastryOrder = _pastryOrder;
+      BreadOrder = BreadOrder;
+      PastryOrder = PastryOrder;
     }
 
     // methods

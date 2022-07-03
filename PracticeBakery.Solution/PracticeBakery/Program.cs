@@ -15,6 +15,7 @@ namespace PracticeBakery.Models
       Console.WriteLine("Bread --- $5/each *buy 2 get 1 free");
       Console.WriteLine("Pastry -- $2/each *buy 3 for $5");
       Console.WriteLine("----------------------------------------");
+      UserOptions();
       Console.WriteLine("How many breads would you like to order?");
       int userInputBread = Convert.ToInt32(Console.ReadLine());
       BreadOrder currentBreadOrder = new BreadOrder(userInputBread);
@@ -37,5 +38,45 @@ namespace PracticeBakery.Models
       Console.WriteLine("-----Have-A-Nice-Day!------");
       Console.WriteLine("---------------------------");
     }
+    static void UserOptions()
+    {
+      Console.WriteLine("Would you like to:");
+      Console.WriteLine("1) order bread");
+      Console.WriteLine("2) order pastries");
+      Console.WriteLine("3) see menu");
+      Console.WriteLine("4) see order total");
+      Console.WriteLine("Please type your selection 1, 2, 3, or 4 and press enter");
+      string choice = Console.ReadLine();
+      if (choice == "1")
+      {
+        // run bread function
+      }
+      else if (choice == "2")
+      {
+        // run pastry function
+      } 
+      else if (choice == "3")
+      {
+        // run menu function
+      }
+      else if (choice == "4")
+      {
+        // run total function
+      }
+      else
+      {
+        Console.WriteLine("You did not enter ");
+      }
+    }
+
+    // static void BuyPastries()
+    // {
+
+    // }
+
+    // static void BuyPastries()
+    // {
+
+    // }
   }
 }

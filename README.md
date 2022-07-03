@@ -22,7 +22,7 @@ _A c# console app where you can view the menu for Patty's Practice Bakery and th
 
 ## Known Bugs
 
-* _No known bugs._
+* _Program will not exit-- when prompted to return to menu or exit it will not terminate after reading console input._
 
 ## License
 
